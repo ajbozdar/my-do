@@ -1,0 +1,23 @@
+{
+  "name": "my-do",
+  "version": "1.0.0",
+  "description": "MyDo To-Do CLI App",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajbozdar/my-do.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajbozdar/my-do/issues"
+  },
+  "homepage": "https://github.com/ajbozdar/my-do#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
