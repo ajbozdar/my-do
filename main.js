@@ -12,10 +12,16 @@ let userSelectDay = rlSync.questionInt(`Enter 1 for today.\nEnter 2 for tomorrow
 if (userSelectDay === 1) {
   console.log(`${today}`);
   console.log(`
-    [x] Do coding-dojo problems
-    [ ] Arithmetic Class 7 and 8
-    [ ] Read Spraul's Problem Solving book
-    [ ] Read Polya's Analogy
+    [x] Task 1 
+    [x] Task 2
+    [x] Task 3
+    [x] Task 4
+    [ ] Task 5
+    [ ] Task 6
+    [ ] Task 7
+    [ ] Task 8
+    [ ] Task 9
+    [ ] Task 0
     [ ] Improve MyDo App
   `
   );
